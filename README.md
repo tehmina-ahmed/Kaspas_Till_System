@@ -4,26 +4,26 @@ Responsive till system App using CRUD functionality. Allows users to select an i
 Project Contributor: Tehmina Ahmed 
 Copyright (c) 2021 KaspasTill
 
-##Aims & Objectives 
-
-#Live Preview
-
-#Technologies Used
+## Aims & Objectives 
 
 
-#Installation
+## Technologies Used
 
-#Essential Features 
 
-#Documentation 
-### * User Stories
-### * Database ER Diagram
-### * Risk Assessment Matrix 
-### * High Fidelity ProtoType 
-### * Backlog (MVR)
+## Installation
 
-#Report 
+## Essential Features 
 
+## Documentation 
+User Stories
+Database ER Diagram
+Risk Assessment Matrix 
+High Fidelity ProtoType 
+Backlog (MVR)
+
+## Report 
+
+# Live Preview
 
 
 
