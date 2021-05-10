@@ -39,7 +39,7 @@ Kaspas LTD is an ice cream parlour that provides the user with the ability to cr
 ## Essential Features 
 ### Agile Methodology 
 <p align="left">
-  <img width="550" height="350" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/Trello%20Board.png">
+  <img width="600" height="350" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/Trello%20Board.png">
 </p>
 Here is the Trello Kanban Board used to track tasks against time and the priority order of them. The Board displays tasks that were ordered into...
 To-Do,
@@ -49,7 +49,7 @@ This was helpful and was used as an online diary for me to keep track of my task
 
 ## Requirements - using Moscow Prioritisation
 <p align="left">
-  <img width="550" height="350" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/MoSCoW%20prioritization.png">
+  <img width="600" height="350" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/MoSCoW%20prioritization.png">
 </p>
 This technique allowed me to see which requirements would be essential to implement VS. requirements which would be a stretch goal. 
 
@@ -57,17 +57,17 @@ This technique allowed me to see which requirements would be essential to implem
 
 ### Jira Backlog 
 <p align="left">
-  <img width="550" height="350" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/Jira%20Board.png">
+  <img width="600" height="350" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/Jira%20Board.png">
 </p>
 Above is the Backlog for the previously intended MVP (minimum viable product) which was the initial plan. The App was initially designed to allows customers to create an order by appending one or more products to their order. However due to time constraints, this idea had to be modified to realistically meet the deadline. And so, the idea and database tables was simplified so that the user creates their own idea of a dessert with a topping. 
 
 ### Database ER Diagram (inc. stretch goal tables) 
 
-<p align="left">
-  <img width="520" height="350" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/KaspasTill%20Database%20ER%20Diagram%20-%20Database%20ER%20diagram%20(crow's%20foot).png">
+<p align="center">
+  <img width="550" height="550" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/KaspasTill%20Database%20ER%20Diagram%20-%20Database%20ER%20diagram%20(crow's%20foot).png">
 </p>
-
 This ER Diagram included four tables that were to be appended to the KaspasDB Database using C# to implement them and MySQL WorkBench to modify and view them. The MySQL WorkBench was utilising an Azure single server to satisfy its connection string with. The updated Diagram below shows how in actuality, the minimum requirements of only two databases were implemented due to some programming bugs and a lack of time to display them on the front end successfully. Due to this, the Products and Toppings tables were chosen to be implemented. 
+
 
 ### Design - Wireframes 
 
@@ -91,15 +91,29 @@ The user stories display scenarios of how the App interacts with user actions. T
 ## Updated Documentation (After idea modification)
 
 ### Updated Database ER Diagram 
-<p align="left">
-  <img width="550" height="350" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/Updated%20ER%20Database%20Diagram%20Kaspas%20App.png">
+<p align="center">
+  <img width="550" height="520" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/Updated%20ER%20Database%20Diagram%20Kaspas%20App.png">
 </p>
 
 The updated Diagram shows the relationship between the two MVP tables which are that one product can have ONE OR MANY toppings (or that one or many toppings can be applied to one product). This is a simple real life concept which was more realistic to implement alongside the  time constraints. The context was also more logical as creating a products and orders tables as MVP would have been complicated without creating a customers' table also. 
 
 ### Risk Assessment 
+<p align="left">
+  <img width="750" height="550" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/RA%201.png">
+</p>
+<p align="left">
+  <img width="750" height="550" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/ra%202.png">
+</p>
+<p align="left">
+  <img width="750" height="550" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/ra%203.png">
+</p>
+<p align="left">
+  <img width="750" height="475" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/RA%204.png">
+</p>
+
 
 ## Report 
+
 
 ## Developer
 Tehmina Ahmed 
