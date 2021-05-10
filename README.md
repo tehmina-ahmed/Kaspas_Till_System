@@ -79,7 +79,11 @@ Home Page                                                                       
 
 These ProtoTypes were designed on paper first as initial designs and were then digitally created using LucidSpark. This was done to create a visual guide as to how the App should look - however it was understood that this would be a stretch goal and the aesthetics of the app were to only be focused on once the CRUD functionality and other requirements had been implemented successfully
 
+### User Stories 
 
+Place Order                                                                                                         |  Delete Order
+:-----------------------------------------------------------------------------------------------------------------: |:-------------------------:
+![](https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/User%20Story%20Delete%20Order.png)  | ![](https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/User%20Story%20Place%20Order.png) |
 
 
 ## Report 
