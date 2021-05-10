@@ -38,7 +38,7 @@ Kaspas LTD is an ice cream parlour that provides the user with the ability to cr
 
 ## Essential Features 
 ### Agile Methodology 
-<p align="left">
+<p align="center">
   <img width="600" height="350" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/Trello%20Board.png">
 </p>
 Here is the Trello Kanban Board used to track tasks against time and the priority order of them. The Board displays tasks that were ordered into...
@@ -48,7 +48,7 @@ To-Do,
 This was helpful and was used as an online diary for me to keep track of my tasks. 
 
 ## Requirements - using Moscow Prioritisation
-<p align="left">
+<p align="center">
   <img width="600" height="350" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/MoSCoW%20prioritization.png">
 </p>
 This technique allowed me to see which requirements would be essential to implement VS. requirements which would be a stretch goal. 
@@ -56,7 +56,7 @@ This technique allowed me to see which requirements would be essential to implem
 ## Initial Documentation (before idea modification)
 
 ### Jira Backlog 
-<p align="left">
+<p align="center">
   <img width="600" height="350" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/Jira%20Board.png">
 </p>
 Above is the Backlog for the previously intended MVP (minimum viable product) which was the initial plan. The App was initially designed to allows customers to create an order by appending one or more products to their order. However due to time constraints, this idea had to be modified to realistically meet the deadline. And so, the idea and database tables was simplified so that the user creates their own idea of a dessert with a topping. 
@@ -98,21 +98,21 @@ The user stories display scenarios of how the App interacts with user actions. T
 The updated Diagram shows the relationship between the two MVP tables which are that one product can have ONE OR MANY toppings (or that one or many toppings can be applied to one product). This is a simple real life concept which was more realistic to implement alongside the  time constraints. The context was also more logical as creating a products and orders tables as MVP would have been complicated without creating a customers' table also. 
 
 ### Risk Assessment 
-<p align="left">
+<p align="center">
   <img width="750" height="550" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/RA%201.png">
 </p>
-<p align="left">
+<p align="center">
   <img width="750" height="550" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/ra%202.png">
 </p>
-<p align="left">
+<p align="center">
   <img width="750" height="550" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/ra%203.png">
 </p>
-<p align="left">
+<p align="center">
   <img width="750" height="475" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/RA%204.png">
 </p>
 
 ### Updated Trello Board 
-<p align="left">
+<p align="center">
   <img width="750" height="475" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/Updated%20Trello.png">
 </p>
 Here is the Updated Kanban Trello board which shows i have completed majority of the MVP requirements. 
