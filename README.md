@@ -10,15 +10,15 @@ Kaspas LTD is an ice cream parlour that provides the user with the ability to cr
 
 
 ## Aims & Objectives 
-| Aims                                                    | Objectives                                                                     |
-| ------------------------------------------------------  | ------------------------------------------------------------------------------:|
-| 1) Create a solution to a real business problem         | * Curate an idea that solves an issue                                          |
-| 2) Design a Full Stack App                              | * Create a High Fidelity ProtoType/Wireframe with Lucid                        |
-| 3) Setup Agile Methodology software                     | * Create Trello board, Jira, GitHub and set time goals                         |
-| 4) Implement App using CRUD Functionality               | * Use Technologies listed below to implement App                               |
-| 5) Test App using BlackBox, WhiteBox, UNIT & X testing  | * Use Automation testing and test each feature of the App against requirements |
-| 6) Use CI & CD to ensure efficient version control      | * Use GitHub and Visual Studio to continously integrate and deploy App edits   |
-| 7) Deploy App                                           | * Deploy App using Azure DevOps or Pipelines                                   |
+  Aims                                                    | Objectives                                                                     |
+| :----------------------------------------------------:  | :------------------------------------------------------------------------------:
+| 1) Create a solution to a real business problem         | a) Curate an idea that solves an issue                                          |
+| 2) Design a Full Stack App                              | b) Create a High Fidelity ProtoType/Wireframe with Lucid                        |
+| 3) Setup Agile Methodology software                     | c) Create Trello board, Jira, GitHub and set time goals                         |
+| 4) Implement App using CRUD Functionality               | d) Use Technologies listed below to implement App                               |
+| 5) Test App using BlackBox, WhiteBox, UNIT & X testing  | e) Use Automation testing and test each feature of the App against requirements |
+| 6) Use CI & CD to ensure efficient version control      | f) Use GitHub and Visual Studio to continously integrate and deploy App edits   |
+| 7) Deploy App                                           | g) Deploy App using Azure DevOps or Pipelines                                   |
 
 
 
@@ -113,6 +113,10 @@ The updated Diagram shows the relationship between the two MVP tables which are 
 
 
 ## Report 
+What I did well                                                                                                     |  How could I improve?
+:-----------------------------------------------------------------------------------------------------------------: |:--------------------------------------------:
+| 1) 
+
 
 
 ## Developer
