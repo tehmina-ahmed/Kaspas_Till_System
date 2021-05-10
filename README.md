@@ -111,11 +111,22 @@ The updated Diagram shows the relationship between the two MVP tables which are 
   <img width="750" height="475" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/RA%204.png">
 </p>
 
+### Updated Trello Board 
+<p align="left">
+  <img width="750" height="475" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/Updated%20Trello.png">
+</p>
+Here is the Updated Kanban Trello board which shows i have completed majority of the MVP requirements. 
 
 ## Report 
 What I did well                                                                                                     |  How could I improve?
 :-----------------------------------------------------------------------------------------------------------------: |:--------------------------------------------:
-| 1) 
+| 1) I successfully designed my App using wireframes                                                                | a) I could have created my stretch goal databases
+| 2) I used Agile methodology throughout the project to manage tasks and time                                       | b) could have used CSS/BootStrap to make App prettier
+| 3) I successfully created my MVP database tables using C# and MySQL                                               | c) Could have integrated more JavaScript
+| 4) I successfully connected to Azure services and MySQL workbench 8.0                                             | d) Could have done more CI using GitHub if it connected
+| 5) I successfully used HTML, CSS & C# with ASP.NET to create an MVC App with CRUD functionality                   | e) Could have implemented Testing by fixing bugs
+| 6) I was able to identify and find solutions to risks associated with development in the matrix                   | f) Could have used Angular as part of front end
+| 7) I was able to deploy the App to a satisfactory requirement level                                               | g) Deploy via Azure Pipelines 
 
 
 
