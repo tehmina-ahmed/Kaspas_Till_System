@@ -85,6 +85,19 @@ Place Order                                                                     
 :-----------------------------------------------------------------------------------------------------------------: |:-------------------------:
 ![](https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/User%20Story%20Delete%20Order.png)  | ![](https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/User%20Story%20Place%20Order.png) |
 
+The user stories display scenarios of how the App interacts with user actions. The user could place an order by appending products, and could also delete an order. 
+
+
+## Updated Documentation (After idea modification)
+
+### Updated Database ER Diagram 
+<p align="left">
+  <img width="550" height="350" src="https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/Updated%20ER%20Database%20Diagram%20Kaspas%20App.png">
+</p>
+
+The updated Diagram shows the relationship between the two MVP tables which are that one product can have ONE OR MANY toppings (or that one or many toppings can be applied to one product). This is a simple real life concept which was more realistic to implement alongside the  time constraints. The context was also more logical as creating a products and orders tables as MVP would have been complicated without creating a customers' table also. 
+
+### Risk Assessment 
 
 ## Report 
 
