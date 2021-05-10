@@ -33,6 +33,8 @@ Kaspas LTD is an ice cream parlour that provides the user with the ability to cr
 * Continous Integration
 * Azure Portal
 * MySQL WorkBench 
+* LucidSpark
+* Jira
 
 ## Essential Features 
 ### Agile Methodology 
@@ -66,6 +68,19 @@ Above is the Backlog for the previously intended MVP (minimum viable product) wh
 </p>
 
 This ER Diagram included four tables that were to be appended to the KaspasDB Database using C# to implement them and MySQL WorkBench to modify and view them. The MySQL WorkBench was utilising an Azure single server to satisfy its connection string with. The updated Diagram below shows how in actuality, the minimum requirements of only two databases were implemented due to some programming bugs and a lack of time to display them on the front end successfully. Due to this, the Products and Toppings tables were chosen to be implemented. 
+
+### Design - Wireframes 
+
+
+
+Home Page                                                                                                           |  Order Page
+:-----------------------------------------------------------------------------------------------------------------: |:-------------------------:
+![](https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/Kaspas%20App%20HF%20ProtoType.png)  | ![](https://github.com/tehmina-ahmed/Kaspas_Till_System/blob/main/Documentation/HF%20ProtoType%20Order%20page.png) |
+
+These ProtoTypes were designed on paper first as initial designs and were then digitally created using LucidSpark. This was done to create a visual guide as to how the App should look - however it was understood that this would be a stretch goal and the aesthetics of the app were to only be focused on once the CRUD functionality and other requirements had been implemented successfully
+
+
+
 
 ## Report 
 
